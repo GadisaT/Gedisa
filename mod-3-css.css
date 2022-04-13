@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    border:0;
+    margin: 0;
+    background-color: #b2e2ea;
+}
+
+.nav-css {
+    background-color: #ccc;
+    border: 2px solid;
+}
+.item {
+    border: 2px solid;
+    padding: 20px;
+    background-color: #edc9af;
+    margin-bottom: 10px;   
+   
+}
+
+
+
+
+
+.menu-title {
+  
+    font-weight: bold;
+} 
